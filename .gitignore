@@ -1,7 +1,9 @@
 *.so.0
+*.so
 *.o
 *~
 gtk3-nocsd
 testlibs/
 test-static-tls
 test-now
+.*.swp
